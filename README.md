@@ -6,9 +6,8 @@ should be demolished or not.
 
 ### Mockup of a property
 
-
-![Mockup](https://github.com/codeforkansascity/teardown-tattler/docs/images/two-week-singleton_2.png)
+![Mockup](https://github.com/codeforkansascity/teardown-tattler/blob/master/docs/images/two-week-singleton_2.png)
 
 ### Data Flow
 
-![Mockup](https://github.com/codeforkansascity/teardown-tattler/docs/images/new-data-flow.png)
+![Mockup](https://github.com/codeforkansascity/teardown-tattler/blob/master/docs/images/new-data-flow.png)
